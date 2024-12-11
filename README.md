@@ -1,2 +1,2 @@
-# rocket-league-stream-overlay
-rocket-league-stream-overlay
+# Rocket league Stream Overlay
+A free to use stream overlay designed to enhance your Rocket League streaming experience
